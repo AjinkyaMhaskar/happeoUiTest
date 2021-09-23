@@ -122,6 +122,6 @@ Default cucumber HTML reports are generated which can be customized according to
 ##### Success Cucumber & TestNg Reports
 
 
-![Alt text](https://github.com/AjinkyaMhaskar/happeoUiTest/blob/main/images/report1.png)
-![Alt text](https://github.com/AjinkyaMhaskar/happeoUiTest/blob/main/images/report2.png)
-![Alt text](https://github.com/AjinkyaMhaskar/happeoUiTest/blob/main/images/report3.png)
+![Alt text](https://github.com/AjinkyaMhaskar/happeoUiTest/blob/main/images/report1.PNG)
+![Alt text](https://github.com/AjinkyaMhaskar/happeoUiTest/blob/main/images/report2.PNG)
+![Alt text](https://github.com/AjinkyaMhaskar/happeoUiTest/blob/main/images/report3.PNG)
