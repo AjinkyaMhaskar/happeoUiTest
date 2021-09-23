@@ -114,7 +114,7 @@ Feature: Verify channel post comment - post emoji
 	}
 ```
 #### Problem Statement 
-![Alt text](./images/problemStatement.png)
+![Alt text](https://github.com/AjinkyaMhaskar/happeoUiTest/blob/main/images/problemStatement.PNG)
 
 
 #### HTML Reports
@@ -122,6 +122,6 @@ Default cucumber HTML reports are generated which can be customized according to
 ##### Success Cucumber & TestNg Reports
 
 
-![Alt text](./images/report1.png)
-![Alt text](./images/report2.png)
-![Alt text](./images/report3.png)
+![Alt text](https://github.com/AjinkyaMhaskar/happeoUiTest/blob/main/images/report1.png)
+![Alt text](https://github.com/AjinkyaMhaskar/happeoUiTest/blob/main/images/report2.png)
+![Alt text](https://github.com/AjinkyaMhaskar/happeoUiTest/blob/main/images/report3.png)
