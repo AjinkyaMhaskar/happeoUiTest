@@ -114,7 +114,7 @@ Feature: Verify channel post comment - post emoji
 	}
 ```
 #### Problem Statement 
-![report1](./images/problemStatement.png)
+![Alt text](./images/problemStatement.png)
 
 
 #### HTML Reports
@@ -122,6 +122,6 @@ Default cucumber HTML reports are generated which can be customized according to
 ##### Success Cucumber & TestNg Reports
 
 
-![report1](./images/report1.png)
-![report2](./images/report2.png)
-![report3](./images/report3.png)
+![Alt text](./images/report1.png)
+![Alt text](./images/report2.png)
+![Alt text](./images/report3.png)
