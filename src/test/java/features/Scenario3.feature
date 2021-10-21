@@ -11,7 +11,7 @@ Feature: Verify create new page functionality
 #			When I submit username and password
 #			Then I should be logged in
 
-	Scenario: To verify publish post functionality - Add expiry date
+	Scenario: To verify sub page is created under First Page
 
     	Given I Open pages menu
     	When I Search for page group - This Page Group
